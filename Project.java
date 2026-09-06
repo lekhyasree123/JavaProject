@@ -35,7 +35,7 @@ class Student extends Member {
 }
 
 
-// Inheritance
+
 class Teacher extends Member {
 
     Teacher(String name) {
